@@ -11,4 +11,4 @@ eureka:
   client:
     service-url:
       defaultZone: http://eureka1:8761/eureka,http://eureka2:8762/eureka #注册中心地址
-personName: company #用于生产
+personName: companyDev #用于生产
