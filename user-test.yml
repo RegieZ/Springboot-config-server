@@ -11,4 +11,4 @@ eureka:
   client:
     service-url:
       defaultZone: http://eureka1:8761/eureka,http://eureka2:8762/eureka #注册中心地址
-personName: regieZ #用于测试
+personName: reggieTest #用于测试
