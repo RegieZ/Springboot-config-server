@@ -7,8 +7,4 @@ spring:
 mybatis:
   mapper-locations: classpath:mapper/*.xml
   type-aliases-package: com.regino.pojo
-eureka:
-  client:
-    service-url:
-      defaultZone: http://eureka1:8761/eureka,http://eureka2:8762/eureka #注册中心地址
 personName: companyDev #用于生产
